@@ -57,7 +57,7 @@ main {
 /* HERO SECTION (HOME PAGE) */
 .hero {
     background: url('images/hero-bg.jpg') no-repeat center center/cover; /* Replace with your image */
-    color: white;
+    color: rgb(41, 18, 190);
     padding: 80px 20px;
     text-align: center;
     margin-bottom: 30px;
